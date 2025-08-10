@@ -1,11 +1,10 @@
+import { createPublicClient, http } from "viem";
+import { optimism } from "viem/chains";
 import {
-  setUserNotificationDetails,
   deleteUserNotificationDetails,
+  setUserNotificationDetails,
 } from "@/lib/notification";
 import { sendFrameNotification } from "@/lib/notification-client";
-import { http } from "viem";
-import { createPublicClient } from "viem";
-import { optimism } from "viem/chains";
 
 const appName = process.env.NEXT_PUBLIC_ONCHAINKIT_PROJECT_NAME;
 

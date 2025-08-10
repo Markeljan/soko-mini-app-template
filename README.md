@@ -4,9 +4,8 @@ This is a [Next.js 15](https://nextjs.org) project bootstrapped with [`create-on
 
 - [MiniKit](https://docs.base.org/builderkits/minikit/overview)
 - [OnchainKit](https://www.base.org/builders/onchainkit)
-- [Tailwind CSS 4](https://tailwindcss.com)
 - [React 19](https://react.dev)
-- [Biome.js](https://biomejs.dev)
+- [Biomejs](https://biomejs.dev)
 
 ## Getting Started
 
